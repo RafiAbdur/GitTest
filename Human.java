@@ -9,7 +9,4 @@ public void sayName(){
 System.out.println("I am " + name);
 }
 
-public void badMthod(){
-}
-
 }
