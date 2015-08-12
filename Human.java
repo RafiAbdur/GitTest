@@ -9,4 +9,8 @@ public void sayName(){
 System.out.println("I am " + name);
 }
 
+public void laugh(){
+System.out.println("Ha ha");
+}
+
 }
