@@ -4,6 +4,7 @@ public static void main(String []args){
 Human h = new Human("Tanzil");
 h.sayName();
 getNewHuman().sayName();
+h.sadFace();
 }
 
 public static String feature1(int id){
