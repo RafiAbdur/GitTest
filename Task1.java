@@ -5,6 +5,7 @@ Human h = new Human("Tanzil");
 h.sayName();
 getNewHuman().sayName();
 h.sadFace();
+System.out.println(addNewHand());
 }
 
 public static String feature1(int id){
@@ -17,6 +18,10 @@ return s;
 
 public static Human getNewHuman(){
 return new Human("Alien");
+}
+
+public static String addNewHand(){
+return "Hands addded";
 }
 
 }
