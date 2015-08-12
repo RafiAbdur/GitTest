@@ -15,7 +15,7 @@ System.out.println(":(");
 }
 
 public void cry(){
-System.out.println("Me now cry!!");
+System.out.println("Me Always cry!!");
 }
 
 public void laugh(){
