@@ -6,12 +6,16 @@ name = n;
 }
 
 public void sayName(){
-System.out.println("I am " + name);
+System.out.println("I am a " + name);
 }
 
 
 public void sadFace(){
 System.out.println(":(");
+}
+
+public void cry(){
+System.out.println("Me now cry!!");
 }
 
 public void laugh(){
