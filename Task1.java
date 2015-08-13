@@ -1,11 +1,12 @@
+import newfeature.Alien;
 public class Task1{
 public static void main(String []args){
 
 Human h = new Human("Abdur");
-h.sayName();
+
 getNewHuman().sayName();
 h.cry();
-h.nag();
+new Alien().scare();
 h.sleep();
 System.out.println(addNewHand());
 }
