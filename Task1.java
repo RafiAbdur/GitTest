@@ -1,11 +1,12 @@
 public class Task1{
 public static void main(String []args){
 
-Human h = new Human("Tanzil");
+Human h = new Human("Abdur");
 h.sayName();
 getNewHuman().sayName();
-h.sadFace();
+h.cry();
 h.nag();
+h.sleep();
 System.out.println(addNewHand());
 }
 
