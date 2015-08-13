@@ -27,4 +27,8 @@ public void nag(){
 System.out.println("Naging naging");
 }
 
+public void sleep(){
+System.out.println("zzzzzzzz....");
+}
+
 }
