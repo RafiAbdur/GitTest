@@ -5,7 +5,7 @@ Human h = new Human("Tanzil");
 h.sayName();
 getNewHuman().sayName();
 h.sadFace();
-h.cry();
+h.nag();
 System.out.println(addNewHand());
 }
 

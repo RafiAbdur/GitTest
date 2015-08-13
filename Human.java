@@ -23,4 +23,8 @@ System.out.println("Ha ha");
 
 }
 
+public void nag(){
+System.out.println("Naging naging");
+}
+
 }
