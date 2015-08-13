@@ -6,7 +6,7 @@ name = n;
 }
 
 public void sayName(){
-System.out.println("I am a " + name);
+System.out.println("I am a Big BIg BIG BIIIIIIIIIIIGGGGGGGGGGGGG" + name);
 }
 
 
